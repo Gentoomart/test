@@ -1,9 +1,9 @@
-/* 'use strict';
- */
+'use strict';
+/*
 a = 5;
 console.log(a);
 
-/* let arr = ["1.png", "2.jpg", "3.bmp"] */
+ let arr = ["1.png", "2.jpg", "3.bmp"] */
 
 /* 
 alert('Hello World'); */
